@@ -1,6 +1,7 @@
 
 OUTPUT:
-![output](Demo Link: https://drinksmart.netlify.app/)
+
+Demo Link: https://drinksmart.netlify.app
 ![output](https://user-images.githubusercontent.com/112778628/212009315-7caa2e45-d909-4089-859c-95dad7ef28d2.png)
 
 
